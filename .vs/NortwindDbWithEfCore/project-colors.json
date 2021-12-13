@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2873b991-51ac-4da9-a0b4-687a3ee10e5c": {
+      "ProjectGuid": "2873b991-51ac-4da9-a0b4-687a3ee10e5c",
+      "DisplayName": "NortwindDbWithEfCore",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
